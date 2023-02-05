@@ -1,0 +1,80 @@
+body{
+    background-image: url("front5.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.front{
+    border-color: green ;
+}
+a.a1{
+    position: absolute;
+    left: 300px;
+    font-size: 30px;
+    color: rgb(15, 15, 15);
+    border: 2px solid red;
+    border-radius: 12px;
+    padding: 5px;
+}
+a.a2{
+    position: absolute;
+    right: 280px;
+    font-size: 30px;
+    color: black;
+    border: 2px solid red;
+    border-radius: 12px;
+    padding: 5px;
+}
+.saurabh{
+    font-size: 25px;
+    color: brown;
+}
+ 
+.sec{
+    color: rgb(14, 2, 122);
+    
+    
+}
+.home{
+    color: rgb(248, 241, 241);
+    font-size: 30px;
+    background-color: rgb(14, 14, 14);
+    border: 5px solid rgb(21, 21, 22);
+    border-radius: 12px;
+    padding: 5px;
+
+}
+.exp{
+    background-image: url("exr.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.real{
+    background-color: lightgreen;
+
+}
+.me{
+    background-image: url("about.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.left{
+    position: absolute;
+    right: 0px;
+    color: black;
+
+}
+.right{
+    position: absolute;
+    left: 0px;
+    color: black;
+}
+.div{
+    color: white;
+}
+.white{
+    color: white;
+}
